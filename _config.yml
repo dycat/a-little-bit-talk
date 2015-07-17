@@ -1,0 +1,3 @@
+﻿markdown:redcarpet
+baseurl:/a-little-bit-talk
+exclude: ['README.md']
