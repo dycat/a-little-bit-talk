@@ -1,3 +1,4 @@
-﻿markdown: redcarpet
+﻿markdown: kramdown
 baseurl: /a-little-bit-talk
 exclude: ['README.md']
+encoding: utf-8
